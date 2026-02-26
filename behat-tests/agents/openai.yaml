@@ -1,4 +1,0 @@
-interface:
-  display_name: "Behat Tests"
-  short_description: "Write and run Behat scenarios in business language"
-  default_prompt: "Use $behat-tests to create or update Behat scenarios in business language (domain intent first), then implement steps and run them in the correct PHP environment."

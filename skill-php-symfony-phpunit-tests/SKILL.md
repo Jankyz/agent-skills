@@ -1,11 +1,13 @@
 ---
-name: symfony-phpunit-tests
+name: skill-php-symfony-phpunit-tests
 description: Write and run Symfony tests with PHPUnit in Docker. Use when adding or updating tests in Symfony/PHP projects, deciding test type (unit/integration/functional), detecting PHP/PHPUnit/Symfony versions from composer.json/lock, and running phpunit then phpstan then cs-fixer in order.
 ---
 
-# Symfony PHPUnit Tests
+# Symfony PHPUnit Tests Skill
 
 ## Overview
+
+Keywords (GitHub): symfony, phpunit, symfony/phpunit-bridge, php, docker, phpstan, php-cs-fixer, kerneltestcase, webtestcase
 
 Run tests in Symfony projects, choose the right test type and syntax for the project's PHP/PHPUnit versions,
 run them via Docker, then run phpstan and cs-fixer in the agreed order.

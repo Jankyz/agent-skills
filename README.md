@@ -6,14 +6,14 @@ This repository contains Codex skills (each skill is a folder with a `SKILL.md` 
 
 ```text
 .
-├── behat-tests
+├── skill-php-behat-tests
 │   ├── SKILL.md
 │   ├── agents
 │   │   └── openai.yaml
 │   └── scripts
 │       ├── format_feature_step_alignment.py
 │       └── suggest_behat_docker_cmd.sh
-└── symfony-phpunit-tests
+└── skill-php-symfony-phpunit-tests
     ├── SKILL.md
     ├── references
     │   └── compatibility.md

@@ -1,9 +1,11 @@
 ---
-name: behat-tests
+name: skill-php-behat-tests
 description: Write, extend, debug, and run Behat (Gherkin) behavioral tests in PHP/Symfony projects. Use when adding or changing `.feature` scenarios, implementing/adjusting step definitions (contexts), fixing failing Behat runs, or wiring Behat to run locally or in Docker while matching project PHP/Symfony versions. Prioritize business language in scenarios (user intent and business outcomes over technical transport details).
 ---
 
-# Behat Tests
+# PHP Behat Tests Skill
+
+Keywords (GitHub): behat, gherkin, bdd, php, symfony, feature files, step definitions, contexts, docker
 
 ## Quick Start
 
@@ -98,13 +100,13 @@ Formatting example:
 Apply formatter after edits:
 
 ```bash
-~/.codex/skills/behat-tests/scripts/format_feature_step_alignment.py features
+~/.codex/skills/skill-php-behat-tests/scripts/format_feature_step_alignment.py features
 ```
 
 Check mode (CI/pre-commit):
 
 ```bash
-~/.codex/skills/behat-tests/scripts/format_feature_step_alignment.py --check features
+~/.codex/skills/skill-php-behat-tests/scripts/format_feature_step_alignment.py --check features
 ```
 
 ### Keep steps readable and domain-oriented
