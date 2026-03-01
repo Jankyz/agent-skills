@@ -20,3 +20,5 @@ This repository contains Codex skills (each skill is a folder with a `SKILL.md` 
     └── scripts
         └── detect_versions.py
 ```
+
+...more skills to come!
