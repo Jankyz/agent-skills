@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lore Commit Message"
+  short_description: "Draft and write Lore protocol commits"
+  default_prompt: "Use $skill-lore-commit-message to install Lore CLI if needed, draft a Lore protocol commit from the staged diff, and write it through lore commit using structured JSON."
